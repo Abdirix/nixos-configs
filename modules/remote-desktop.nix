@@ -8,6 +8,6 @@
   services.xrdp = {
     enable = true;
     openFirewall = true;
-    defaultWindowManager = "cinnamon-session";
+    defaultWindowManager = "${pkgs.cinnamon}/bin/cinnamon-session";
   };
 }
