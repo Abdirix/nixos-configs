@@ -1,5 +1,5 @@
 # modules/remote-desktop.nix
-{ ... }:
+{pkgs, ... }:
 
 {
 
