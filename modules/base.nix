@@ -31,6 +31,7 @@
     wget
     tree
     htop
+    fastfetch
     tcpdump
     usbutils
   ];
